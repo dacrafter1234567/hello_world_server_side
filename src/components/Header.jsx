@@ -5,6 +5,7 @@ function Header() {
     return(
         <header>
             <h1>Title of the Site</h1>
+            <Navigation />
         </header>
     );
 };

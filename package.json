@@ -2,7 +2,7 @@
   "name": "react-spring-2025/my-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://dacrafter1234567.github.io/hello_world_server_side",
+  "homepage": "https://dacrafter1234567.github.io/hello_world_server_side/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -15,8 +15,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
