@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hello_world_server_side/static/css/main.2114faf8.css",
+    "main.js": "/hello_world_server_side/static/js/main.b20bdaa2.js",
+    "index.html": "/hello_world_server_side/index.html",
+    "main.2114faf8.css.map": "/hello_world_server_side/static/css/main.2114faf8.css.map",
+    "main.b20bdaa2.js.map": "/hello_world_server_side/static/js/main.b20bdaa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2114faf8.css",
+    "static/js/main.b20bdaa2.js"
+  ]
+}
